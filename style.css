@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Covered+By+Your+Grace&family=Gugi&display=swap');
+
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.name-title{
+    color: hotpink;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+body{
+    margin : 0;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/05/08/22/matrix-1799659_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: black;
+    color:#1ed760;
+    font-family: 'Gugi', cursive;
+    min-height: 100vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.title{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.main-img{
+    width: 45%;
+    height: 45%;
+}
+
+.result{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.chance{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.input-part{
+    padding-bottom: 20px;
+}
+
+.input{
+    padding: 8px 70px;
+}
+
+
+.button1{
+    background-color: blue;
+    color: black;
+    font-size: 30px;
+    padding: 12px 30px;
+    text-align: center;
+    border-radius: 500px;
+}
+
+.button2{
+    background-color: red;
+    color: black;
+    font-size: 30px;
+    padding: 12px 30px;
+    text-align: center;
+    border-radius: 500px;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.line{
+    color: white;
+    padding-right: 30px;
+}
+
+.footer-detail{
+    color: white;
+    font-size: 20px;
+}
