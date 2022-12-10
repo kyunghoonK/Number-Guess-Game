@@ -1,5 +1,5 @@
 # 숫자 Up & Down 게임
-* 주소 : [numbe-guess-game.netlify.app](numbe-guess-game.netlify.app)
+* 주소 : numbe-guess-game.netlify.app
 
 ## 기능
 
