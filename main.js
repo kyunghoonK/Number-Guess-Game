@@ -51,7 +51,7 @@ function play(){
     }else if (userValue > computerNum){
         resultArea.textContent = "DOWN!!!";
     }else {
-        resultArea.textContent = "맞췄습니다";
+        resultArea.textContent = "정답입니다";
         gameOver=true;
     }
 
