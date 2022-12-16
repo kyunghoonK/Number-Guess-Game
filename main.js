@@ -38,7 +38,7 @@ function play(){
     }
 
     if(history.includes(userValue)){
-        resultArea.textContent="이미 입력한 숫자입니다 다른 숫자를 입력해 주세요."
+        resultArea.textContent="이미 입력한 숫자입니다 다른 숫자를 입력해 주세요.";
         return;
     }
 
@@ -81,4 +81,5 @@ function reset() {
     history = [];
 
 }
+
 pickRandomNum();
