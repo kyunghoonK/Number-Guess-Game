@@ -64,7 +64,7 @@ function play(){
 
     if (gameOver == true){
         playButton.disabled = true;
-        resultArea.textContent = "--게임 종료--";
+        chanceArea.textContent = "--게임 종료--";
     }
 }
 
