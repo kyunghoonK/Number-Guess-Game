@@ -1,4 +1,6 @@
 # 숫자 Up & Down 게임
+
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWj6ED%2FbtrYH3dfnq9%2FGtK7DF0k5AeU5fkrVAbQW0%2Fimg.png)
 * 주소 : https://number-guess-game-kh.netlify.app
 
 ## 기능
